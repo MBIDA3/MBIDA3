@@ -47,18 +47,18 @@
 <!-- Langages les plus utilisés -->
 <h3 align="left">Most Used Languages by EMBOLO MBIDA Christian</h3>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MBIDA3&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=etie20&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Langages les plus utilisés" />
 </p>
 
 <!-- Statistiques GitHub -->
 <h3 align="left">GitHub Stats for EMBOLO MBIDA Christian</h3>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MBIDA3&show_icons=true&locale=en&theme=tokyonight" alt="Statistiques GitHub" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=etie20&show_icons=true&locale=en&theme=tokyonight" alt="Statistiques GitHub" />
 </p>
 
 <!-- Streak -->
 <h3 align="left">Contribution Streak – EMBOLO MBIDA Christian</h3>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MBIDA3&theme=tokyonight" alt="Streak GitHub" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=etie20&theme=tokyonight" alt="Streak GitHub" />
 </p>
 
