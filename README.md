@@ -24,3 +24,20 @@
     <img src="https://skillicons.dev/icons?i=clion,androidstudio,idea,pycharm,webstorm" />
   </a>
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/etie20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="etie20" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/christian-embolo-mbida-6549342a9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="EMBOLO" height="30" width="40" /></a>
+</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,dart,java,flutter,spring,angular,vue,docker,git,githubactions,postgres,supabase" />
+  </a>
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=etie20&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="etie20" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=etie20&show_icons=true&locale=en&theme=tokyonight" alt="etie20" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=etie20&theme=tokyonight" alt="etie20" /></p>
